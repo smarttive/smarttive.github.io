@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Smarttive</title>
-    <link>https://smarttive.github.io/</link>
+    <link>https://www.smarttive.com/</link>
     <description>Recent content in Home on Smarttive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smarttive.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.smarttive.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Products</title>
-      <link>https://smarttive.github.io/products-pl/</link>
+      <link>https://www.smarttive.com/products-pl/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://smarttive.github.io/products-pl/</guid>
+      <guid>https://www.smarttive.com/products-pl/</guid>
       <description>Polski</description>
     </item>
     
     <item>
       <title>Products</title>
-      <link>https://smarttive.github.io/products/</link>
+      <link>https://www.smarttive.com/products/</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://smarttive.github.io/products/</guid>
+      <guid>https://www.smarttive.com/products/</guid>
       <description>text</description>
     </item>
     
