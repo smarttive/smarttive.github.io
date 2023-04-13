@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.smarttive.com/fr/</loc>
+    <loc>https://smarttive.github.io/fr/</loc>
     <lastmod>2023-02-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.smarttive.com/"
+                href="https://smarttive.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://www.smarttive.com/pl/"
+                href="https://smarttive.github.io/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://www.smarttive.com/fr/"
+                href="https://smarttive.github.io/fr/"
                 />
   </url>
 </urlset>
